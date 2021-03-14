@@ -1,0 +1,23 @@
+.image {
+    height: 30px;
+}
+
+.paragrap {
+    color: rgb(94, 255, 0);
+    font-size: 50px;
+    text-align: right;
+    /* background-color: darkturquoise; */
+    border: 6px tomato solid;   
+    padding: 50px;
+    margin: 30px; 
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
